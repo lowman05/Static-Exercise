@@ -1,4 +1,3 @@
-C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.AssemblyReference.cache
 C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfoInputs.cache
 C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\n
 C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.pdb
 C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.genruntimeconfig.cache
 C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\ref\StaticExercise.dll
+C:\Users\danrf\OneDrive\Desktop\repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.sourcelink.json

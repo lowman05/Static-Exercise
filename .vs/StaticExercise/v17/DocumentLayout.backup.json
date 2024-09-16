@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danrf\\OneDrive\\Desktop\\repos\\Static-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FF51DA-5F00-42D0-8AE5-4A573F1D3D4A}|StaticExercise\\StaticExercise.csproj|c:\\users\\danrf\\onedrive\\desktop\\repos\\static-exercise\\staticexercise\\tempconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FF51DA-5F00-42D0-8AE5-4A573F1D3D4A}|StaticExercise\\StaticExercise.csproj|solutionrelative:staticexercise\\tempconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FF51DA-5F00-42D0-8AE5-4A573F1D3D4A}|StaticExercise\\StaticExercise.csproj|c:\\users\\danrf\\onedrive\\desktop\\repos\\static-exercise\\staticexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FF51DA-5F00-42D0-8AE5-4A573F1D3D4A}|StaticExercise\\StaticExercise.csproj|solutionrelative:staticexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TempConverter.cs",
+              "DocumentMoniker": "C:\\Users\\danrf\\OneDrive\\Desktop\\repos\\Static-Exercise\\StaticExercise\\TempConverter.cs",
+              "RelativeDocumentMoniker": "StaticExercise\\TempConverter.cs",
+              "ToolTip": "C:\\Users\\danrf\\OneDrive\\Desktop\\repos\\Static-Exercise\\StaticExercise\\TempConverter.cs",
+              "RelativeToolTip": "StaticExercise\\TempConverter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-24T16:24:22.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danrf\\OneDrive\\Desktop\\repos\\Static-Exercise\\StaticExercise\\Program.cs",
+              "RelativeDocumentMoniker": "StaticExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\danrf\\OneDrive\\Desktop\\repos\\Static-Exercise\\StaticExercise\\Program.cs",
+              "RelativeToolTip": "StaticExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-24T16:22:52.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
